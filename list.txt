@@ -1014,3 +1014,4 @@
 ||affiliate.k4.tinhte.vn
 ||track-srv.vietnamnet.vn
 ||tracking.vietnamnetad.vn
+||adx.admicro.vn
