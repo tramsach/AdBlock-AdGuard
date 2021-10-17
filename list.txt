@@ -1015,3 +1015,4 @@
 ||track-srv.vietnamnet.vn
 ||tracking.vietnamnetad.vn
 ||adx.admicro.vn
+||googleads.g.doubleclick.net
