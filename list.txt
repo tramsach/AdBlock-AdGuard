@@ -1016,3 +1016,7 @@
 ||tracking.vietnamnetad.vn
 ||adx.admicro.vn
 ||googleads.g.doubleclick.net
+
+# Block App macOS sau khi đã thuốc
+
+||downiestatistics.com
