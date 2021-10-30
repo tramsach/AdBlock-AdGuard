@@ -1024,6 +1024,3 @@
 
 # Monitor Xiaomi Router and Block
 ||baidu.com^
-
-# Cái dcm sao ko up date được vậy
-
