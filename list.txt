@@ -1025,4 +1025,6 @@
 # Monitor Xiaomi Router and Block
 ||baidu.com^
 
-# Lêu lêu
+# Quảng cáo từ YTS.MX
+||lifrim.com^
+||user-shield-check.com^
