@@ -1008,7 +1008,7 @@
 ||ucesreferre.club^
 ||vongquaymienphi.net^
 
-# Phần bổ sung để test
+# Thêm mấy cái link tinh
 
 ||trackity.tiki.vn^
 ||affiliate.k4.tinhte.vn^
@@ -1028,3 +1028,4 @@
 # Quảng cáo từ YTS.MX
 ||lifrim.com^
 ||user-shield-check.com^
+||kesmatic.com^
