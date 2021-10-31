@@ -1008,7 +1008,7 @@
 ||ucesreferre.club^
 ||vongquaymienphi.net^
 
-# Thêm mấy cái link tinh. Cái này để test cái rename branch thôi á 
+# Thêm mấy cái nhặt được từ Quantumult X 
 
 ||trackity.tiki.vn^
 ||affiliate.k4.tinhte.vn^
