@@ -1008,6 +1008,9 @@
 ||ucesreferre.club^
 ||vongquaymienphi.net^
 
+# Cái này test thử
+||slatic.net^
+
 # Thêm mấy cái nhặt được từ Quantumult X 
 
 ||trackity.tiki.vn^
