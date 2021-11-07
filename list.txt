@@ -1009,7 +1009,7 @@
 ||vongquaymienphi.net^
 
 # Cái này test thử
-||slatic.net^
+@@||slatic.net^
 
 # Thêm mấy cái nhặt được từ Quantumult X 
 
