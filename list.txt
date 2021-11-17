@@ -1,7 +1,44 @@
 # Bộ lọc chặn quảng cáo cho AdGuard Home
 # Dùng cho nhu cầu cá nhân là chính
 # Homepage: http://tramsach.com
-# Update: 21, 17 Oct
+# Update: 21, 17 Nov
+
+# Cái này test thử
+@@||slatic.net^
+@@||analytics.google.com^$client=192.168.1.21
+@@||analytics.google.com^$client=192.168.1.53
+@@||tramsach.com^
+
+# Thêm mấy cái nhặt được từ Quantumult X 
+||trackity.tiki.vn^
+||affiliate.k4.tinhte.vn^
+||track-srv.vietnamnet.vn^
+||tracking.vietnamnetad.vn^
+||adx.admicro.vn^
+||googleads.g.doubleclick.net^
+||11bet.club^
+
+# Block App macOS sau khi đã thuốc
+
+||downiestatistics.com
+
+# Monitor Xiaomi Router and Block
+||baidu.com^important
+
+# Quảng cáo từ YTS.MX
+||lifrim.com^
+||user-shield-check.com^
+||kesmatic.com^
+
+# Quáng cáo cá cược
+||fun281.com^
+||tylemacao.com^
+||vgs79.com^
+||ta88.com^
+||fcb8.vip^
+||1win88.com^
+||services.7msport.com^
+||vn.7msport.com^
 
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
@@ -1007,39 +1044,3 @@
 ||thseaeing.fun^
 ||ucesreferre.club^
 ||vongquaymienphi.net^
-
-# Cái này test thử
-@@||slatic.net^
-@@||analytics.google.com^$client=192.168.1.21
-
-# Thêm mấy cái nhặt được từ Quantumult X 
-
-||trackity.tiki.vn^
-||affiliate.k4.tinhte.vn^
-||track-srv.vietnamnet.vn^
-||tracking.vietnamnetad.vn^
-||adx.admicro.vn^
-||googleads.g.doubleclick.net^
-||11bet.club^
-
-# Block App macOS sau khi đã thuốc
-
-||downiestatistics.com
-
-# Monitor Xiaomi Router and Block
-||baidu.com^important
-
-# Quảng cáo từ YTS.MX
-||lifrim.com^
-||user-shield-check.com^
-||kesmatic.com^
-
-# Quáng cáo cá cược
-||fun281.com^
-||tylemacao.com^
-||vgs79.com^
-||ta88.com^
-||fcb8.vip^
-||1win88.com^
-||services.7msport.com^
-||vn.7msport.com^
