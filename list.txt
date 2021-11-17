@@ -1027,7 +1027,7 @@
 ||downiestatistics.com
 
 # Monitor Xiaomi Router and Block
-||baidu.com^
+||baidu.com^important
 
 # Quảng cáo từ YTS.MX
 ||lifrim.com^
