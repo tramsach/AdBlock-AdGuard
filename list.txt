@@ -1010,6 +1010,7 @@
 
 # Cái này test thử
 @@||slatic.net^
+@@||analytics.google.com^$client=192.168.1.21
 
 # Thêm mấy cái nhặt được từ Quantumult X 
 
