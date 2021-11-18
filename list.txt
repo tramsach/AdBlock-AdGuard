@@ -1,5 +1,5 @@
 # Bộ lọc chặn quảng cáo cho AdGuard Home
-# Dùng cho nhu cầu cá nhân là chính
+# VN Ad Server
 # Homepage: http://tramsach.com
 # Update: 21, 17 Nov
 
@@ -8,8 +8,6 @@
 @@||analytics.google.com^$client=192.168.1.21
 @@||analytics.google.com^$client=192.168.1.53
 @@||tramsach.com^
-
-# Comment here 
 
 # Thêm mấy cái nhặt được từ Quantumult X 
 ||trackity.tiki.vn^
