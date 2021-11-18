@@ -9,6 +9,8 @@
 @@||analytics.google.com^$client=192.168.1.53
 @@||tramsach.com^
 
+# Comment here 
+
 # Thêm mấy cái nhặt được từ Quantumult X 
 ||trackity.tiki.vn^
 ||affiliate.k4.tinhte.vn^
