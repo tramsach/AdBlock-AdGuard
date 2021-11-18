@@ -3,7 +3,7 @@
 # Homepage: http://tramsach.com
 # Update: 21, 17 Nov
 
-# Cái này test thử
+# Internal Online
 @@||slatic.net^
 @@||analytics.google.com^$client=192.168.1.21
 @@||analytics.google.com^$client=192.168.1.53
