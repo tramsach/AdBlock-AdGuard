@@ -7,7 +7,6 @@
 @@||slatic.net^
 @@||analytics.google.com^$client=192.168.1.21
 @@||analytics.google.com^$client=192.168.1.53
-@@||tramsach.com^
 
 # Thêm mấy cái nhặt được từ Quantumult X 
 ||trackity.tiki.vn^
