@@ -19,8 +19,10 @@
 ||11bet.club^
 
 # Block App macOS sau khi đã thuốc
-
 ||downiestatistics.com
+
+# Block gstatic
+||metric.gstatic.com^
 
 # Monitor Xiaomi Router and Block
 ||baidu.com^
