@@ -1,6 +1,6 @@
 # Bộ lọc chặn quảng cáo cho AdGuard Home
 # VN Ad Server
-# Homepage: http://tramsach.com
+# Homepage: tramsach.com
 # Update: 21, 19 Nov
 
 # Internal Online
