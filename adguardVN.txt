@@ -20,9 +20,6 @@
 # Block App macOS sau khi đã thuốc
 ||downiestatistics.com
 
-# Block gstatic
-||metric.gstatic.com^
-
 # Monitor Xiaomi Router and Block
 ||baidu.com^
 
@@ -30,6 +27,8 @@
 ||lifrim.com^
 ||user-shield-check.com^
 ||kesmatic.com^
+||fawouvd.icu^
+||polyhymnia-mar.com^
 
 # Quáng cáo cá cược
 ||fun281.com^
