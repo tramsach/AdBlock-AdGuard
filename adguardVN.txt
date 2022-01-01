@@ -15,6 +15,7 @@
 ||tracking.vietnamnetad.vn^
 ||adx.admicro.vn^
 ||googleads.g.doubleclick.net^
+||doubleclick.net^
 ||11bet.club^
 
 # Block App macOS sau khi đã thuốc
