@@ -20,6 +20,7 @@
 
 # Block App macOS sau khi đã thuốc
 ||downiestatistics.com
+||analytics36.techsmith.com^
 
 # Monitor Xiaomi Router and Block
 ||baidu.com^
@@ -41,6 +42,7 @@
 ||services.7msport.com^
 ||vn.7msport.com^
 
+||ti.ki^
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
 ||ad-us.24hstatic.com^
