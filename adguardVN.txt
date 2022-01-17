@@ -31,10 +31,17 @@
 ||kesmatic.com^
 ||fawouvd.icu^
 ||polyhymnia-mar.com^
+
+# Update 18 Jan 
+
 ||statics.lotuscdn.vn^
 ||event.mediacdn.vn^
 ||static.trunkpkg.com^
 ||static.mediacdn.vn^
+||occi.opencoccoc.com^
+||logg4u.cnnd.vn^
+||static.contineljs.com^
+||google-analytics.com^
 
 # Quáng cáo cá cược
 ||fun281.com^
