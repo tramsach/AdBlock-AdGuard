@@ -3,7 +3,7 @@
 # Homepage: http://tramsach.com
 # Update: 21, 19 Nov
 
-# Internal Online
+# Internal Only
 @@||slatic.net^
 @@||analytics.google.com^$client=192.168.1.21
 @@||analytics.google.com^$client=192.168.1.22
@@ -31,6 +31,10 @@
 ||kesmatic.com^
 ||fawouvd.icu^
 ||polyhymnia-mar.com^
+||statics.lotuscdn.vn^
+||event.mediacdn.vn^
+||static.trunkpkg.com^
+||static.mediacdn.vn^
 
 # Quáng cáo cá cược
 ||fun281.com^
