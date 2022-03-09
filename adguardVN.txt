@@ -33,7 +33,7 @@
 ||polyhymnia-mar.com^
 
 # Update 18 Jan 
-
+||googleadservices.com^
 ||statics.lotuscdn.vn^
 ||event.mediacdn.vn^
 ||static.trunkpkg.com^
@@ -52,7 +52,6 @@
 ||1win88.com^
 ||services.7msport.com^
 ||vn.7msport.com^
-
 ||ti.ki^
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
