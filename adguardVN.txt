@@ -8,7 +8,8 @@
 @@||analytics.google.com^$client=192.168.1.21
 @@||analytics.google.com^$client=192.168.1.22
 
-# Thêm mấy cái nhặt được từ Quantumult X 
+||doubleclick.net^
+||adsrvr.org^
 ||trackity.tiki.vn^
 ||affiliate.k4.tinhte.vn^
 ||track-srv.vietnamnet.vn^
