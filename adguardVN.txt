@@ -38,7 +38,7 @@
 ||statics.lotuscdn.vn^
 ||event.mediacdn.vn^
 ||static.trunkpkg.com^
-||static.mediacdn.vn^
+@@||static.mediacdn.vn^
 @@||occi.opencoccoc.com^
 ||logg4u.cnnd.vn^
 @@||static.contineljs.com^
