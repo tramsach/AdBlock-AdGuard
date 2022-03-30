@@ -25,6 +25,7 @@
 
 # Monitor Xiaomi Router and Block
 ||baidu.com^
+||api.kinghub.vn
 
 # Quảng cáo từ YTS.MX
 ||lifrim.com^
