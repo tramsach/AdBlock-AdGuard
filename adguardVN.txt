@@ -7,6 +7,7 @@
 @@||slatic.net^
 @@||analytics.google.com^$client=192.168.1.21
 @@||analytics.google.com^$client=192.168.1.22
+@@||tramsach.com^
 
 ||doubleclick.net^
 ||adsrvr.org^
