@@ -26,7 +26,13 @@
 ||trk.staging.123c.vn^
 ||failover.123c.vn^
 ||sales.ads.zaloapp.com^
-
+||button-follow.zalo.me^
+||button-share.zalo.me^
+||mplaylist-ads.zadn.vn^
+||page.widget.zalo.me^
+||px.dmp.zaloapp.com^
+||api.widget.zalo.me^
+||za.zdn.vn^
 
 # Block App macOS sau khi đã thuốc
 ||downiestatistics.com
@@ -53,6 +59,18 @@
 ||logg4u.cnnd.vn^
 ||static.contineljs.com^
 ||google-analytics.com^
+||smartadnetwork.net^
+
+#Update 9 Apr 2022
+||aiactiv.io^
+||analytics.saas-vn.network^
+||boxpr.aiservice.vn^
+||modestsunf.com^
+||tracker-mw-zlivestream.zapps.vn^
+||tracker-zlivestream.zapps.vn^
+||delivery.lavamedia.vn^
+||cdn.bongdadem.net^
+||cdn.rongzhouxing.com^
 
 # Quáng cáo cá cược
 ||fun281.com^
@@ -131,6 +149,8 @@
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||cdp.asia^
+
+||cococx.com^
 ||cheap-ads.net^
 ||chin-adnetwork.com^
 ||cityads.com^
@@ -141,6 +161,7 @@
 ||codon.vn^
 ||contineljs.com^
 ||dable.io^
+||daleriki.com^
 ||donglogs.com^
 ||eclick.vn^
 ||eva-ad.24hstatic.com^
