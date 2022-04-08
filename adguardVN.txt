@@ -1,7 +1,7 @@
 # Bộ lọc chặn quảng cáo cho AdGuard Home
 # VN Ad Server
 # Homepage: http://tramsach.com
-# Update: 21, 19 Nov
+# Update: 22, 07 Apr
 
 # Internal Only
 @@||slatic.net^
@@ -18,6 +18,14 @@
 ||googleads.g.doubleclick.net^
 ||doubleclick.net^
 ||11bet.club^
+
+# Zalo App
+||qos-talk.123c.vn^
+||qos-zdn.123c.vn^
+||trk.staging.123c.vn^
+||failover.123c.vn^
+||sales.ads.zaloapp.com^
+
 
 # Block App macOS sau khi đã thuốc
 ||downiestatistics.com
