@@ -175,6 +175,7 @@
 ||cdn.comedia.coccoc.com^
 ||cdnstoremedia.com^
 ||cdp.asia^
+||dwellspheers.com^
 
 ||cococx.com^
 ||cheap-ads.net^
