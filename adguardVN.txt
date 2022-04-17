@@ -96,6 +96,9 @@
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
 
+||yowietableboard.com^
+||bandiko.club^
+
 ||fun281.com^
 ||tylemacao.com^
 ||vgs79.com^
