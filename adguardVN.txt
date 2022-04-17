@@ -61,7 +61,7 @@
 ||google-analytics.com^
 ||smartadnetwork.net^
 
-#Update 9 Apr 2022
+# Update 9 Apr 2022
 ||aiactiv.io^
 ||analytics.saas-vn.network^
 ||boxpr.aiservice.vn^
@@ -72,7 +72,30 @@
 ||cdn.bongdadem.net^
 ||cdn.rongzhouxing.com^
 
-# Quáng cáo cá cược
+# Amazon
+||amazonaax.com^
+||amazonclix.com^
+||assoc-amazon.com^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+
+||advertising.twitter.com^
+||widgets.pinterest.com^
+||ads-dev.pinterest.com^
+||ads.reddit.com^
+||d.reddit.com^
+||ads.tiktok.com^
+||business.samsungusa.com^
+||notify.bugsnag.com^
+||app.getsentry.com^
+||browser.sentry-cdn.com^
+||app.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+
 ||fun281.com^
 ||tylemacao.com^
 ||vgs79.com^
